@@ -1,4 +1,4 @@
-# 
+# automatic Polymarket bot | decentralized-trading + backtesting offers the most advanced Polymarket bot, with decentralized-trading and backtesting. Ideal for professional traders
 
 
 
